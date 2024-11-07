@@ -1,0 +1,3 @@
+"AbilityName[String]","Desc[String]","Ability[Asset Reference]","ActionType[String]"
+"Cast","Cast your line into the water.","5B2BDB0BB44BE408","Fish"
+"Slash","Slash in front of you in a cone","F2F436CBD910EB2A",""
